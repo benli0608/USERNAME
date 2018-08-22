@@ -4,4 +4,4 @@ You seem to have visited `github.com/submit50/USERNAME`, but you forgot to repla
 
 ## tl;dr
 
-Visit `github.com/submit50/USERNAME`, where `USERNAME` is your own GitHub username, not `USERNAME` literally!
+Visit `github.com/submit50/benli0608`, where `benli0608` is your own GitHub username, not `USERNAME` literally!
